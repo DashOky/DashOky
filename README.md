@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Udemy and University**
 
-- 💬 Ask me about **React and C#**
+- 💬 Ask me about **React, C#, SQL, C# Form**
 
 - 📫 How to reach me **mehmetokanakkus@gmail.com**
 
